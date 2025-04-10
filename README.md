@@ -15,4 +15,4 @@ This is a simple Express API that connects to a MongoDB database and retrieves u
 4. Start the server with `npm start`
 
 ## Endpoints
-- `GET /api/users/:id` - Fetch user details
+- `GET /api/users/:id` - Fetch user detail
